@@ -127,7 +127,7 @@
                   .color_27 {color: #6B1C1C;}
                   .backcolor_27 {background-color: #6B1C1C;}
                   .color_28 {color: #A02B2B;}
-                  .backcolor_28 {background-color: #A02B2B;}
+                  .backcolor_28 {background-colo r: #A02B2B;}
                   .color_29 {color: #C07979;}
                   .backcolor_29 {background-color: #C07979;}
                   .color_30 {color: #DFA9A9;}
