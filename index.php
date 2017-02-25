@@ -4,6 +4,10 @@
       <meta http-equiv="X-UA-Compatible" content="IE=Edge">
       <meta charset="utf-8">
       <title>Daniel Lam</title>
+            <link rel="icon" 
+      type="image/png" 
+      href="http://www.favicon.cc/logo3d/436938.png">
+      
       <meta name="fb_admins_meta_tag" content="">
       <script type="text/javascript">
          var santaBase = 'https://static.parastorage.com/services/santa/1.2128.4';
