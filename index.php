@@ -5,8 +5,6 @@
       <meta charset="utf-8">
       <title>Daniel Lam</title>
       <meta name="fb_admins_meta_tag" content="">
-      <link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
-      <link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon">
       <script type="text/javascript">
          var santaBase = 'https://static.parastorage.com/services/santa/1.2128.4';
              var clientSideRender = true;
@@ -385,15 +383,6 @@
                               </div>
                            </div>
                         </div>
-                     </div>
-                  </div>
-                  <div style="width: 980px; position: fixed; z-index: 50; left: 0px; height: 85px; bottom: 40px; top: auto;" class="s2_footer s2" data-state=" fixedPosition" id="SITE_FOOTER" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$SITE_FOOTER">
-                     <div id="SITE_FOOTERscreenWidthBackground" class="s2screenWidthBackground" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$SITE_FOOTER.0" style="width: 980px; left: 0px;">
-                        <div class="s2_bg" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$SITE_FOOTER.0.0"></div>
-                     </div>
-                     <div id="SITE_FOOTERcenteredContent" class="s2centeredContent" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$SITE_FOOTER.1">
-                        <div id="SITE_FOOTERbg" class="s2bg" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$SITE_FOOTER.1.0"></div>
-                        <div id="SITE_FOOTERinlineContent" class="s2inlineContent" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$SITE_FOOTER.1.1"></div>
                      </div>
                   </div>
                   <div style="width: 980px; position: absolute; top: 95px; height: 1248px; left: 0px;" class="s3" data-state="" id="PAGES_CONTAINER" data-reactid=".0.$SITE_ROOT.$desktop_siteRoot.$PAGES_CONTAINER">
